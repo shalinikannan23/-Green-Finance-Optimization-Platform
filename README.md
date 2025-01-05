@@ -33,7 +33,7 @@ This project leverages Agentic AI to create an AI-powered platform that optimize
 
 ## Tech Stack
 
-- *Agentic AI*: For developing AI-powered agents for risk and ESG scoring models, optimization, and dashboard creation.
+- *PHI data*: For developing AI-powered agents for risk and ESG scoring models, optimization, and dashboard creation.
 - *Python*: For implementing machine learning models, data processing, and optimization algorithms.
 - *NewsAPI*: For fetching news articles related to risk analysis from multiple sources.
 - *arXiv API*: For collecting academic papers related to ESG topics.
