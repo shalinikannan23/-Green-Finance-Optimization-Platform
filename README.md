@@ -36,7 +36,7 @@ This project leverages Agentic AI to create an AI-powered platform that optimize
 - *PHI data*: For developing AI-powered agents for risk and ESG scoring models, optimization, and dashboard creation.
 - *Python*: For implementing machine learning models, data processing, and optimization algorithms.
 - *NewsAPI*: For fetching news articles related to risk analysis from multiple sources.
-- *arXiv API*: For collecting academic papers related to ESG topics.
+- *arXiv API*: For collecting academic papers related to Sustainable development.
 - *NLP Libraries*:
   - spaCy, nltk: For named entity recognition, sentiment analysis, and topic modeling.
   - transformers: For using pre-trained models like BERT for text analysis.
