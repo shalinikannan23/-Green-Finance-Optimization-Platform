@@ -23,6 +23,9 @@ This project leverages Agentic AI to create an AI-powered platform that optimize
 
 6. *Visualization*:
    - The platform provides a dashboard to visualize project rankings, ESG scores, risk levels, and optimized portfolio allocations. The dashboard also supports scenario analysis to explore how different investment strategies affect the overall outcomes.
+## OPTIMIZATION ALGORITHM:
+
+![WhatsApp Image 2025-01-05 at 16 39 22_57f362ee](https://github.com/user-attachments/assets/f4265ee9-803a-4d4a-839e-6c1a9e8776ad)
 
 ## Tech Stack
 
