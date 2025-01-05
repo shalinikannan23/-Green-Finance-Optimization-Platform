@@ -27,7 +27,7 @@ This project leverages Agentic AI to create an AI-powered platform that optimize
 
 ![WhatsApp Image 2025-01-05 at 16 39 22_57f362ee](https://github.com/user-attachments/assets/f4265ee9-803a-4d4a-839e-6c1a9e8776ad)
 
-## UI template(Updated based on requirements)
+## UI template(will update based on requirements)
 ![image](https://github.com/user-attachments/assets/c742f76d-45aa-4d49-8ee5-1833bcf8f8ca)
 
 
